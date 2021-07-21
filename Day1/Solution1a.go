@@ -69,4 +69,5 @@ func main(){
 	fmt.Println(m.elements[0][0])
 	fmt.Println(m.addMatrices(m2))
 	m2.printMatrix()
+    m.printMatrix()
 }
